@@ -7,7 +7,7 @@ A simple GUI application to manage an Employee Database, built using Python's `t
 - **Search Employee Record**: Search for an employee by their ID.
 - **Delete Employee Record**: Delete an employee's record using their ID.
 - **Display All Records**: View all employee records stored in the application.
-- 
+  
 
 # Paragraph Analyzer
 
